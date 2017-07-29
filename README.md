@@ -1,3 +1,6 @@
+## 共享协议
+本作使用[署名-非商业使用-禁止演绎](https://creativecommons.org/licenses/by-nc-nd/4.0/)协议共享。
+
 # JavaScript编程一天入门
 
 ## 前言
